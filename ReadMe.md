@@ -8,6 +8,8 @@
 2. Unreal Engine 4 卡通渲染
    * [Part 1: Cel Shading](https://www.raywenderlich.com/146-unreal-engine-4-cel-shading-tutorial)
    * [Part 2: Toon Outline](https://www.raywenderlich.com/188499/unreal-engine-4-toon-outlines-tutorial)
+     1. 使用Inverted Mesh实现，扩大边缘
+     2. 后处理，边缘检测
    * [Part 3: Custom Shaders Using HLSL](https://www.raywenderlich.com/190254/unreal-engine-4-custom-shaders-tutorial)
    * [Part 4: Paint Filter](https://www.raywenderlich.com/191720/unreal-engine-4-paint-filter-tutorial)
    * 翻译链接 https://zhuanlan.zhihu.com/p/73836392
